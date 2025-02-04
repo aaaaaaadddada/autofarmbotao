@@ -1,4 +1,3 @@
--- Criação da GUI
 local player = game.Players.LocalPlayer
 local playerGui = player.PlayerGui
 
